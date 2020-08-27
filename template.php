@@ -1,7 +1,5 @@
 <?php
-namespace library\core;
-
-class template {
+1class template {
 
     private $file;
     
