@@ -1,5 +1,5 @@
 <?php
-1class template {
+class template {
 
     private $file;
     
