@@ -1,2 +1,2 @@
 # simple-template-engine
-simple PHP template engine
+simple core PHP template engine with loop and if capability 
